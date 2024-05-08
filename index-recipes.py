@@ -1,5 +1,6 @@
 import json
 
+# add a commment: this is te input data filepaths.
 datapath = "data/recipes.txt"
 outputpath = "outputs/recipe-index.json"
 
